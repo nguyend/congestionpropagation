@@ -6,4 +6,4 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - run: python causaltree.py
+      - run: python ../causaltree.py
