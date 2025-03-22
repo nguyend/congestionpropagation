@@ -8,4 +8,4 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v1
-      - run: python causaltree.py
+      - run: python action_test.py
